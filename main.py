@@ -1,8 +1,6 @@
 from gtn import guess_the_number
 from rps import rock_paper_scissors
 from wordle import Wordle
-from connect_four import ConnectFour
-from tictactoe import TicTacToe
 
 while True:
     txt = """Mini Games!!!
